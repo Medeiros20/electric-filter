@@ -51,7 +51,7 @@ pip install numpy matplotlib librosa scipy
 ```
 ### Como clonar o repositorio
 ```
-git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
+git clone https://github.com/Dev-Joao-Medeiros/electric-filter.git
 ```
 ### Como execultar o projeto
 ```
